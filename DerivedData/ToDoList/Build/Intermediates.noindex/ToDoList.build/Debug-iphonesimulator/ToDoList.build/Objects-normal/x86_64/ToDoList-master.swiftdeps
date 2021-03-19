@@ -1,0 +1,14 @@
+version: "Apple Swift version 5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)"
+options: "6e6c5b9acefce3b3dd702cc90be7f5e4"
+build_time: [1616183994, 977299000]
+inputs:
+  "/Users/ataiakishev/Desktop/ToDoList/ToDoList/GroupItem.swift": [1602041187, 0]
+  "/Users/ataiakishev/Desktop/ToDoList/ToDoList/AddItemViewController.swift": [1607391187, 322695609]
+  "/Users/ataiakishev/Desktop/ToDoList/ToDoList/AppDelegate.swift": [1602296548, 283316869]
+  "/Users/ataiakishev/Desktop/ToDoList/ToDoList/IconPickerViewController.swift": [1602042571, 0]
+  "/Users/ataiakishev/Desktop/ToDoList/ToDoList/ChecklistViewController.swift": [1602297780, 930012100]
+  "/Users/ataiakishev/Desktop/ToDoList/ToDoList/AddGroupViewController.swift": [1602043137, 0]
+  "/Users/ataiakishev/Desktop/ToDoList/ToDoList/SceneDelegate.swift": [1601690328, 0]
+  "/Users/ataiakishev/Desktop/ToDoList/ToDoList/ChecklistItem.swift": [1602736621, 423509775]
+  "/Users/ataiakishev/Desktop/ToDoList/ToDoList/GroupTableViewController.swift": [1602296548, 268894374]
+  "/Users/ataiakishev/Desktop/ToDoList/ToDoList/DataModel.swift": [1602296548, 290884725]

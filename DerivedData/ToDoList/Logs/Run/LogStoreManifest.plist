@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>BEC8B092-51E7-4F8C-9A35-C23BD45A131B</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>BEC8B092-51E7-4F8C-9A35-C23BD45A131B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ToDoList project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ToDoList</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run ToDoList</string>
+			<key>timeStartedRecording</key>
+			<real>630102767.14512002</real>
+			<key>timeStoppedRecording</key>
+			<real>630102839.34049404</real>
+			<key>title</key>
+			<string>Run ToDoList</string>
+			<key>uniqueIdentifier</key>
+			<string>BEC8B092-51E7-4F8C-9A35-C23BD45A131B</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
